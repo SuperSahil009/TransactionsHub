@@ -4,6 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/31141656/148694881-5f661f74-c6d6-4563-985d-4ccb7930780e.png)
 
+
+
+<h1>Introduction to App</h1>
+
+1. Stores the List of all transactions made by a user on blockchain.
+2. Dispays the transactions in a fun way.
+3. Can send ETH on Rapson test net.
+4. Will show a relatable GIF to the 'keyword' mentioned for the transaction.
+
+
 <h1>How to view</h1>
 
 1.Visit the website here: [Link](https://confident-poincare-f97621.netlify.app)
@@ -19,11 +29,3 @@
 ![image](https://user-images.githubusercontent.com/31141656/148694949-68a8370e-4877-468d-9506-ad21c57a94ca.png)
 
 
-
-
-<h1>Introduction to App</h1>
-
-1. Stores the List of all transactions made by a user on blockchain.
-2. Dispays the transactions in a fun way.
-3. Can send ETH on Rapson test net.
-4. Will show a relatable GIF to the 'keyword' mentioned for the transaction.
