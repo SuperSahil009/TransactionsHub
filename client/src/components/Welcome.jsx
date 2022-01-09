@@ -26,7 +26,6 @@ const Welcome = () => {
         const {addressTo, amount, keyword, message} = formData;
         e.preventDefault();
         if(!addressTo || !amount || !keyword || !message)return;
-
         sendTransaction();
     }
 
@@ -96,6 +95,7 @@ const Welcome = () => {
 
 
                     <div className='p-5 sm:w-96 w-full flex flex-col justify-start items-center blue-glassmorphism'>
+
                         <Input placeholder="Address To" name="addressTo" type="text" handleChange={handleChange}   />
                         <Input placeholder="Amount in ETH" name="amount" type="number" handleChange={handleChange}   />
                         <Input placeholder="Keyword" name="keyword" type="text" handleChange={handleChange}   />
@@ -110,7 +110,9 @@ const Welcome = () => {
                             onClick={handleSubmit}
                             className='text-white w-full mt-2 border-[1px] p-2 border-[#3d4f7c] rounded-full cursor-pointer'
                             >
+
                             Send Now
+
                             </button>
                         )}
                     </div>
