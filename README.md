@@ -1,4 +1,4 @@
-[<h1>Transactionshub -Link</h1>](transactions-hub-supersahil009.netlify.app)
+[<h1>Transactionshub - live website link</h1>](transactions-hub-supersahil009.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/31141656/148694881-5f661f74-c6d6-4563-985d-4ccb7930780e.png)
 
