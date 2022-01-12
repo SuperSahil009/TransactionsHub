@@ -8,7 +8,7 @@
 
 <h1>Introduction to App</h1>
 
-1. Stores the List of all transactions made by a user on blockchain.
+1. Stores the List of all transactions made by all users on the blockchain.
 2. Dispays the transactions in a fun way.
 3. Can send ETH on Rapson test net.
 4. Will show a relatable GIF to the 'keyword' mentioned for the transaction.
