@@ -1,17 +1,17 @@
 [<h1>Transactionshub -Link</h1>](transactions-hub-supersahil009.netlify.app)
 
-[Video](https://imgur.com/a/kh9yq9l)
+[Video](https://drive.google.com/file/d/1WRPxbq30NcN3X-h_8B0G6ZkSyl0xaCha/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/31141656/148694881-5f661f74-c6d6-4563-985d-4ccb7930780e.png)
-
 
 
 <h1>Introduction to App</h1>
 
 1. Stores the List of all transactions made by all users on the blockchain.
-2. Dispays the transactions in a fun way.
-3. Can send ETH on Rapson test net.
-4. Will show a relatable GIF to the 'keyword' mentioned for the transaction.
+2. Has a link of transactions mapped to etherscan.
+3. Dispays the transactions in a fun way.
+4. Can send ETH on Rapson test net.
+5. Will show a relatable GIF to the 'keyword' mentioned for the transaction.
 
 
 <h1>How to view</h1>
